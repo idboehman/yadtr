@@ -1,0 +1,7 @@
+[submodule "vim-sensible"]
+      path = dot_vim/bundle
+      url = git://github.com/tpope/vim-sensible.git
+
+[submodule "vim-colors-solarized"]
+      path = dot_vim/bundle/vim-colors-solarized
+      url = git://github.com/altercation/vim-colors-solarized.git
